@@ -1,0 +1,24 @@
+<html>
+	<head>
+		 <title>
+         pag 2
+	</title>
+	</head>
+	<body>
+		<a href= file:///C:/Users/labinfo.ECTUFRN/Downloads/index%20(1).html> << VOLTAR </a>	
+		<h1>
+		One Foot
+		</h1>
+		<p> <iframe width="560" height="315" src="https://www.youtube.com/embed/2LyFlrcKwYQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+		
+		<h2> <p> Sun </p> </h2>
+		<p> <iframe width="560" height="315" src="https://www.youtube.com/embed/Ke7RY3LmfNY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</p>
+
+		<h3>
+		Nelson
+		</h3>
+		<p> <iframe width="560" height="315" src="https://www.youtube.com/embed/-399docQ8qU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+		
+	</body>
+</html>
